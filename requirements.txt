@@ -1,0 +1,4 @@
+argocd-client @ git+https://github.com/globocom/argocd-client.git
+python-dotenv
+loguru
+rich
